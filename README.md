@@ -21,7 +21,7 @@ Analysis of an e-commerce company's customer behaviour, retention, lifetime valu
 
 The view table cleaned up and created can be found here:
 
-[View cohort_view_table](scripts/cohort_view_table.sql)
+[View cohort_view_table](Scripts/cohort_view_table.sql)
 
 - Sales and customer data aggregated into revenue metrics.
 - First purchase dates calculated for cohort analysis.
@@ -32,7 +32,7 @@ The view table cleaned up and created can be found here:
 
 ### 1. Customer Segmentation
 
-**Query:** [customer_segmentation.sql](scripts/customer_segmentation.sql)
+**Query:** [customer_segmentation.sql](Scripts/customer_segmentation.sql)
 
 **Visualisation:**
 
