@@ -32,7 +32,7 @@ The view table cleaned up and created can be found here:
 
 ### 1. Customer Segmentation
 
-**Query:** [customer_segmentation.sql](scripts/customer_segmentation.sql)
+**Query:** [customer_segmentation.sql](Scripts/customer_segmentation.sql)
 
 **Visualisation:**
 
